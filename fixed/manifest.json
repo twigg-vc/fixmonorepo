@@ -1,0 +1,54 @@
+{
+  "fixmonorepo_version": 1,
+  "generated_at": "2026-09-02T03:03:43+00:00",
+  "source_repo": "example",
+  "repo_count": 5,
+  "remote_template": null,
+  "atoms": [
+    {
+      "name": "readme-md",
+      "path": "README.md",
+      "file": "README.md",
+      "mode": "100644",
+      "branch": "main",
+      "commits": 1,
+      "clone_url": "repos/readme-md"
+    },
+    {
+      "name": "a-txt",
+      "path": "a.txt",
+      "file": "a.txt",
+      "mode": "100644",
+      "branch": "main",
+      "commits": 1,
+      "clone_url": "repos/a-txt"
+    },
+    {
+      "name": "b-txt",
+      "path": "b.txt",
+      "file": "b.txt",
+      "mode": "100644",
+      "branch": "main",
+      "commits": 1,
+      "clone_url": "repos/b-txt"
+    },
+    {
+      "name": "subfolder-a-txt",
+      "path": "subfolder/a.txt",
+      "file": "a.txt",
+      "mode": "100644",
+      "branch": "main",
+      "commits": 1,
+      "clone_url": "repos/subfolder-a-txt"
+    },
+    {
+      "name": "subfolder-b-txt",
+      "path": "subfolder/b.txt",
+      "file": "b.txt",
+      "mode": "100644",
+      "branch": "main",
+      "commits": 1,
+      "clone_url": "repos/subfolder-b-txt"
+    }
+  ]
+}

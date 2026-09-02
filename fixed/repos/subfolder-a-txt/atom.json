@@ -1,0 +1,17 @@
+{
+  "name": "subfolder-a-txt",
+  "version": "1.0.0",
+  "description": "The a.txt repository.",
+  "files": [
+    "a.txt"
+  ],
+  "originalPath": "subfolder/a.txt",
+  "dependencies": {},
+  "peerRepositories": 4,
+  "filesPerRepository": 1,
+  "organizedBy": "repository",
+  "publishConfig": {
+    "access": "public",
+    "necessary": false
+  }
+}

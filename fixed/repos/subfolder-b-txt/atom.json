@@ -1,0 +1,17 @@
+{
+  "name": "subfolder-b-txt",
+  "version": "1.0.0",
+  "description": "The b.txt repository.",
+  "files": [
+    "b.txt"
+  ],
+  "originalPath": "subfolder/b.txt",
+  "dependencies": {},
+  "peerRepositories": 4,
+  "filesPerRepository": 1,
+  "organizedBy": "repository",
+  "publishConfig": {
+    "access": "public",
+    "necessary": false
+  }
+}

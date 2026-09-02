@@ -1,0 +1,17 @@
+{
+  "name": "readme-md",
+  "version": "1.0.0",
+  "description": "The README.md repository.",
+  "files": [
+    "README.md"
+  ],
+  "originalPath": "README.md",
+  "dependencies": {},
+  "peerRepositories": 4,
+  "filesPerRepository": 1,
+  "organizedBy": "repository",
+  "publishConfig": {
+    "access": "public",
+    "necessary": false
+  }
+}
